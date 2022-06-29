@@ -2,9 +2,17 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-anapaulasantos/)
 
-![Ana Paula Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=anapaulasantos90&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulasantos90&layout=compact)](https://github.com/anapaulasantos90/github-readme-stats)
+<table>
+    <tr>
+      <td align="center" style="padding=0;width=50%;">
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=anapaulasantos90&show_icons=true&title_color=7159c1&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=true&count_private=true" />
+      </td>
+      <td align="center" style="padding=0;width=50%;">
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulasantos90&show_icons=true&title_color=7159c1&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=7159c1&count_private=true" />
+      </td>
+    </tr>
+</table>
+</div>
 
 ## Tecnologias que estou aprendendo
 
@@ -17,3 +25,9 @@
 </div><br/>
 
 ## "Quanto mais avança a tecnologia, mais respeitado será o Ser que se mantiver Humano".   Marco Aurélio Ferreira
+
+
+
+
+
+
