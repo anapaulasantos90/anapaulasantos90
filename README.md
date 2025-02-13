@@ -1,7 +1,7 @@
 👋 **Olá! Eu sou a Ana Paula Santos**  
 
 🎓 **Formação Acadêmica:**
-- Graduada em Análise e Desenvolvimento de Sistemas
+- Graduada em Análise e Desenvolvimento de Sistemas em 2024
 - Graduanda em Sistemas de Informação
 
 📚 **Aprendizado Atual:**  
@@ -13,7 +13,7 @@ Atualmente, realizo cursos livres e bootcamps com foco em:
 Além do meu foco em Java, também gosto de explorar Inteligência Artificial e a linguagem Go, sempre buscando expandir meus conhecimentos.
 
 💼 **Objetivo Profissional:**  
-Busco minha primeira oportunidade como desenvolvedora Back-end, seja estágio ou júnior.
+Busco minha primeira oportunidade como desenvolvedora Back-end, seja estágio ou dev júnior.
 
 🔗 **Acompanhe meu aprendizado:**  
 Você pode conferir meus projetos de Java nestas organizações:
