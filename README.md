@@ -1,4 +1,26 @@
-### Olá! Eu sou a Ana Paula Santos 
+👋 **Olá! Eu sou a Ana Paula Santos**  
+
+🎓 **Formação Acadêmica:**
+- Graduada em Análise e Desenvolvimento de Sistemas
+- Graduanda em Sistemas de Informação
+
+📚 **Aprendizado Atual:**  
+Atualmente, realizo cursos livres e bootcamps com foco em:
+- Desenvolvimento Back-end com Java
+- Soft Skills e Carreira na Tecnologia
+
+🚀 **Interesses Paralelos:**  
+Além do meu foco em Java, também gosto de explorar Inteligência Artificial e a linguagem Go, sempre buscando expandir meus conhecimentos.
+
+💼 **Objetivo Profissional:**  
+Busco minha primeira oportunidade como desenvolvedora Back-end, seja estágio ou júnior.
+
+🔗 **Acompanhe meu aprendizado:**  
+Você pode conferir meus projetos de Java nestas organizações:
+- Java Coti Projects - https://github.com/JavaCotiProjects
+- Java Alura Projects - https://github.com/JavaAluraProjects
+
+📬 **Meus Contatos:**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-anapaulasantos/)
 <a href = "mailto:anapaulald90@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
