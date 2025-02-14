@@ -8,6 +8,7 @@
 Atualmente, realizo cursos livres e bootcamps com foco em:
 - Desenvolvimento Back-end com Java
 - Soft Skills e Carreira na Tecnologia
+- Inglês
 
 🚀 **Interesses Paralelos:**  
 Além do meu foco em Java, também gosto de explorar Inteligência Artificial e a linguagem Go, sempre buscando expandir meus conhecimentos.
